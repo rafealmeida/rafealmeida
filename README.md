@@ -9,6 +9,8 @@ orientada a objetos, sistemas e arquitetura. | desenvolvedora em formação. ☕
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
 
 </div>
+![snake animation](https://github.com/rafealmeida/rafealmeida/blob/output/snake-pink.svg)
+
 
 <!--
 **rafealmeida/rafealmeida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
