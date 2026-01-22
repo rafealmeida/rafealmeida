@@ -12,8 +12,11 @@ orientada a objetos, sistemas e arquitetura. | desenvolvedora em formação. ☕
 ---
 
 🌍 **Idiomas**
-- Português — nativo  
-- Inglês — B1
+<div style="border:1px solid #e5e7eb; border-radius:12px; padding:12px; width:fit-content;">
+  🇧🇷 Português — nativo<br/>
+  🇺🇸 Inglês — B1
+</div>
+
 
 
 
