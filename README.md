@@ -9,7 +9,8 @@ orientada a objetos, sistemas e arquitetura. | desenvolvedora em formação. ☕
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
 
 </div>
-![snake animation](https://github.com/rafealmeida/rafealmeida/blob/output/snake-pink.svg)
+![snake animation](https://raw.githubusercontent.com/rafealmeida/rafealmeida/output/snake-pink.svg)
+
 
 
 <!--
