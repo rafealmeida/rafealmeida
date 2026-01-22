@@ -9,6 +9,12 @@ orientada a objetos, sistemas e arquitetura. | desenvolvedora em formação. ☕
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
 
 </div>
+<div style="border:1px solid #e5e7eb; border-radius:12px; padding:12px; width:fit-content;">
+  <strong>Idiomas</strong><br/>
+  🇧🇷 Português — nativo<br/>
+  🇺🇸 Inglês — B1
+</div>
+
 
 ![snake animation](https://raw.githubusercontent.com/rafealmeida/rafealmeida/output/snake-pink.svg)
 
