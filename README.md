@@ -1,9 +1,6 @@
 ## oi, tudo bem? prazer, Raquel 💋
 orientada a objetos, sistemas e arquitetura. | desenvolvedora em formação. ☕
 
-🌎Idiomas
-🇧🇷Português • Nativa
-🇺🇸Inglês • B2
 <!--
 **rafealmeida/rafealmeida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
