@@ -11,9 +11,10 @@ orientada a objetos, sistemas e arquitetura. | desenvolvedora em formação. ☕
 </div>
 <div style="border:1px solid #e5e7eb; border-radius:12px; padding:12px; width:fit-content;">
   <strong>Idiomas</strong><br/>
-  🇧🇷 Português — nativo<br/>
-  🇺🇸 Inglês — B1
+  Português (nativo)<br/>
+  Inglês (B1)
 </div>
+
 
 
 ![snake animation](https://raw.githubusercontent.com/rafealmeida/rafealmeida/output/snake-pink.svg)
