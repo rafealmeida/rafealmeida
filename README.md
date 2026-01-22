@@ -1,5 +1,5 @@
 ## oi, tudo bem? prazer, Raquel 💋
-orientada a objetos, sistemas e boas abstrações.
+orientada a objetos, sistemas e arquitetura.
 
 <!--
 **rafealmeida/rafealmeida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
